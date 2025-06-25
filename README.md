@@ -18,3 +18,8 @@ Simple stock analysis app with Streamlit and Python
 
 ### ***Run the App***
 streamlit run app.py
+
+## ***URL to the project***
+https://stock-analysis-with-python.streamlit.app
+
+![alt text](screenshot.png)
